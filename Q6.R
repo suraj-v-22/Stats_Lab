@@ -76,12 +76,7 @@ data %>%
     y = "Claim Amount"
   ) +
   
-  theme_minimal() +
-  
-  theme(
-    plot.title = element_text(hjust = 0.5, face = "bold"),
-    axis.title = element_text(face = "bold")
-  )
+  theme_minimal()
 
 # =========================================================
 # Percentage of Specific Specialties
