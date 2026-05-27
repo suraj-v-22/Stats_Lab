@@ -4,21 +4,19 @@ This repository contains my Statistics Lab programs, datasets, and related files
 
 ## Repository Contents
 
-### R Programs
-- Q1.R
-- Q2.R
-- Q3.R
-- Q4.R
-- Q5.R
-- Q6.R
-- Q7.R
-- Q8.R
-- Q12.R
+## Programs
 
-### Python Programs
-- Q9.py
-- Q10.py
-- Q11.py
+| R Programs | Python Programs |
+|------------|----------------|
+| Q1.R | Q9.py |
+| Q2.R | Q10.py |
+| Q3.R | Q11.py *(Coming Soon)* |
+| Q4.R |  |
+| Q5.R |  |
+| Q6.R |  |
+| Q7.R |  |
+| Q8.R |  |
+| Q12.R |  |
 ---
 
 ## Datasets Used
